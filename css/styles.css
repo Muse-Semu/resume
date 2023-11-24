@@ -2507,7 +2507,6 @@ textarea.form-control-lg {
   width: 45px;
   height: 45px;
   border-radius: 50%;
-  padding: 2px;
 }
 @media (prefers-reduced-motion: reduce) {
   .form-floating > label {
